@@ -1,0 +1,19 @@
+{
+  "name": "markdown-previewer",
+  "version": "1.0.0",
+  "description": "A simple markdown preview by EfeOnoh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Efe-Onoh/markdown-previewer.git"
+  },
+  "author": "Efe Onoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Efe-Onoh/markdown-previewer/issues"
+  },
+  "homepage": "https://github.com/Efe-Onoh/markdown-previewer#readme"
+}
